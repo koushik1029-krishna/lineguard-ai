@@ -1,0 +1,11 @@
+node_modules
+client/node_modules
+server/node_modules
+submission
+.git
+server/data
+.env
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
